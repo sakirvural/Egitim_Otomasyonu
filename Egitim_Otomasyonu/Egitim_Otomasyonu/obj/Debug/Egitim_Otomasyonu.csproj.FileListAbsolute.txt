@@ -1,0 +1,32 @@
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\bin\Debug\Egitim_Otomasyonu.exe.config
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\bin\Debug\Egitim_Otomasyonu.exe
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\bin\Debug\Egitim_Otomasyonu.pdb
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form1.resources
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Properties.Resources.resources
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.exe
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.pdb
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form2.resources
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form3.resources
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form4.resources
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form5.resources
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form6.resources
+C:\Users\Doğan MUNİS\Source\Repos\Egitim_Otomasyonu\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form7.resources
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\bin\Debug\Egitim_Otomasyonu.exe.config
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\bin\Debug\Egitim_Otomasyonu.exe
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\bin\Debug\Egitim_Otomasyonu.pdb
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.csprojAssemblyReference.cache
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form1.resources
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form2.resources
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form3.resources
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form4.resources
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form5.resources
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form6.resources
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Form7.resources
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.Properties.Resources.resources
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.csproj.GenerateResource.cache
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.csproj.CoreCompileInputs.cache
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.exe
+E:\ataüni bilgisayar müh\2.sınıf ve 3.sınıf ödevleri\sql ödev\Egitim_Otomasyonu\obj\Debug\Egitim_Otomasyonu.pdb
